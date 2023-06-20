@@ -1,0 +1,3350 @@
+editorial for two
+playoff fixing
+bracket coloring
+best binary string
+comparison string
+grasshopper on a line
+ksyusha and chinchilla
+ira and flamenco
+round dance
+flipper
+vlad building beautiful array
+restore the weather
+musical puzzle
+zombies
+combinatorics problem
+red-blue operations (hard version)
+red-blue operations (easy version)
+contrast value
+maximum sum
+new palindrome
+don't blame me
+hits different
+forever winter
+the lakes
+gold rush
+mr. perfectly fine
+blank space
+love story
+permutation swap
+divisible array
+copium permutation
+bus routes
+two centroids
+palindrome partition
+range sorting (hard version)
+range sorting (easy version)
+counting orders
+fading into fog
+walk the runway
+running miles
+dreaming of freedom
+lunatic never content
+trust nobody
+luotianyi and the table
+luotianyi and the palindrome string
+luotianyi and cartridge
+luotianyi and the function
+luotianyi and xor-tree
+luotianyi and the floating islands (hard version)
+luotianyi and the floating islands (easy version)
+luotianyi and the show
+random walk
+removing graph
+unique palindromes
+strongly composite
+sort with step
+a-characteristic
+magic triples (hard version)
+magic triples (easy version)
+gardening friends
+making anti-palindromes
+super-permutation
+bun lover
+karina and array
+tubetube feed
+timber
+rearrange brackets
+black cells
+tear it apart
+sort the subarray
+matching
+jojo's incredible adventures
+yura's new name
+willy-nilly, crack, into release!
+roads in e city
+misha and apples
+the fox and the complete tree traversal
+the butcher
+constructive problem
+indivisible
+politics
+entangled substrings
+half-sum
+toy machine
+similar polynomials
+fish graph
+almost increasing subsequence
+grid reconstruction
+ian visits mary
+oh no1 (-2-3-4)
+bosco and particle
+xor counting
+between
+sum graph
+ian and array sorting
+communication towers
+chain chips
+balancing weapons
+search in parallel
+long legs
+coins
+vlad and the nice paths (hard version)
+vlad and the nice paths (easy version)
+is it flower?
+living sequence
+umka and a long flight
+restore the array
+conveyor belts
+insert digit
+last number
+the maximum prefix
+m-tree
+monsters
+climbing the tree
+make it permutation
+candies
+beautiful sequence
+prediction
+traveling in berland
+two tanks
+binary string sorting
+sum on subarrays
+points on plane
+garland
+minibuses on venus (hard version)
+minibuses on venus (medium version)
+minibuses on venus (easy version)
+petya, petya, petr, and palindromes
+unlucky numbers
+playing in a casino
+lucky numbers
+subsequence addition (hard version)
+subsequence addition (easy version)
+bouncy ball
+interview
+odd queries
+find and replace
+grab the candies
+plus or minus
+gcd master (hard version)
+gcd master (easy version)
+tree master
+dsu master
+sequence master
+mex master
+walking master
+survival of the weakest (hard version)
+survival of the weakest (easy version)
+there should be a lot of maximums
+a wide, wide graph
+place for a selfie
+the string has a target
+we need the zero
+code lock
+flow control
+approximate diameter
+routing
+accommodation
+pull your luck
+vaccination
+lame king
+settlement of guinea pigs
+likes
+a task for substrings
+another n-dimensional chocolate bar
+gasoline prices
+the way home
+music festival
+buying gifts
+the very beautiful blanket
+symmetree
+dasha and nightmares
+unforgivable curse (hard version)
+unforgivable curse (easy version)
+remove two letters
+powering the hero (hard version)
+powering the hero (easy version)
+count the number of pairs
+is it a cat?
+tree cutting
+count voting
+halve or subtract
+city union
+hot start up (hard version)
+hot start up (easy version)
+double lexicographically minimum
+equalize by divide
+recent actions
+gifts from grandfather ahmed
+multitest generator
+shocking arrangement
+candy store
+three sevens
+showstopper
+li hua and path
+li hua and array
+li hua and tree
+li hua and chess
+li hua and pattern
+li hua and maze
+strange triples
+colored subgraphs
+maximum subarray
+maximum set
+asterisk-minor template
+typical interview problem
+removal sequences
+blocking chips
+explosions?
+triangle coloring
+tea tasting
+ideal point
+two towers
+labeling the tree with distances
+counting factorizations
+scoring subsequences
+not dividing
+prefix and suffix array
+rebrending
+velepin and marketing
+moscow gorillas
+dora and search
+fedya and array
+yet another promotion
+graph coloring (hard version)
+graph coloring (easy version)
+divisors and table
+fixed prefix permutations
+min max sort
+stand-up comedian
+gamingforces
+teleporters (hard version)
+teleporters (easy version)
+range update point query
+negatives and positives
+distinct split
+prepend and append
+following directions
+codeforces checking
+tokens on graph
+timofey and black-white tree
+vlad and a pair of numbers
+matryoshkas
+premutation
+taisia and dice
+polycarp and the day of pi
+serval and brain power
+serval and music game
+serval and shift-shift-shift
+serval and toxel's arrays
+serval and inversion magic
+serval and mocha's array
+xor, tree, and queries
+sum over zero
+moving dots
+matching numbers
+sum of two numbers
+one and two
+treasure hunt
+codeforces scoreboard
+colorful tree again
+inverse transformation
+the harmonization of xor
+game on axis
+remove the bracket
+number factorization
+exponential equation
+cake assembly line
+alternating deck (hard version)
+non-alternating deck (easy version)
+minimums or medians
+infinite game
+wooden spoon
+monsters (hard version)
+letter exchange
+monsters (easy version)
+weighed tree radius
+double sort ii
+game of the year
+different arrays
+yet another tournament
+matrix of differences
+make it beautiful
+window signals (hard version)
+window signals (easy version)
+diverse coloring
+bracket insertion
+rectangle shrinking
+many perfect squares
+equal frequencies
+going to the cinema
+parallel projection
+delicious dessert
+three chairs
+josuke and complete graph
+bit guessing game
+gcd partition
+hayato and school
+olympic team building
+the game of the century
+xorcerer's stones
+anya's simultaneous exhibition
+boris and his amazing haircut
+least prefix sum
+mknez's constructiveforces task
+hall of fame
+maximizing root
+the tree has fallen!
+flexible string revisit
+flexible string
+the forbidden permutation
+flip flop sum
+comfortably numb
+edge reverse
+score of a tree
+quiz master
+emordnilap
+everybody likes good arrays!
+count permutations
+parmigiana with seafood
+controllers
+uniform chemistry
+italian data centers
+spinach pizza
+beppa and swerchat
+another wine tasting event
+train splitting
+crossing the railways
+teamwork
+library game
+vittorio plays with lego bricks
+walking boy
+laboratory on pluto
+the human equation
+friendly spiders
+interesting sequence
+gardener and the array
+gardener and the capybaras (hard version)
+gardener and the capybaras (easy version)
+maximum permutation
+segment covering
+magician and pigs (hard version)
+magician and pigs (easy version)
+two chess pieces
+same count one
+ice and fire
+coloring
+add plus minus sign
+lisa's sequences
+jumbled trees
+interactive factorial guessing
+hot and cold
+game of questions
+football
+easy assembly
+dominoes
+bincoin
+amazing trick
+gaining rating
+copy of a copy of a copy
+permutation game
+absolute sorting
+different differences
+matrix rotation
+a+b?
+hossam and range minimum query
+hossam and a letter
+hossam and (sub-)palindromic tree
+hossam and trainees
+hossam and friends
+hossam and combinatorics
+koxia, mahiru and winter festival
+koxia and bracket
+koxia and sequence
+koxia and tree
+koxia and game
+koxia and number theory
+koxia and permutation
+koxia and whiteboards
+wonderful jump
+partial sorting
+lucky permutation
+elemental decompress
+quick sort
+greatest convex
+two subtrees
+algebra flash
+playoff
+count binary strings
+block towers
+cut the triangle
+mcf
+decomposition
+lucky chains
+hamiltonian wall
+notepad#
+extremely round
+number reduction
+minimum lcm
+project manager
+torus path
+hero to zero
+infinite chess
+hospital queue
+guess the string
+chemistry lab
+exchange
+watch the videos
+card guessing
+broken keyboard
+access levels
+doremy's paint 2
+doremy's perfect ds class (hard version)
+doremy's perfect ds class (medium version)
+doremy's perfect ds class (easy version)
+doremy's experimental tree
+doremy's number line
+doremy's pegging game
+doremy's city construction
+doremy's perfect math class
+doremy's paint
+edge queries
+node pairs
+valid bitonic permutations
+another array problem
+incinerate
+absolute maximization
+unequal adjacent elements
+good pairs
+tree sum
+gcd queries
+binary strings are fun
+make array good
+divide and conquer
+centroid guess
+anti-median (hard version)
+anti-median (easy version)
+make it connected
+carry bit
+set construction
+elimination of a ring
+two permutations
+slavicg's favorite problem
+quests
+binary inversions
+challenging valleys
+advantage
+atilla's favorite problem
+medium number
+restore the permutation
+all possible digits
+the humanoid
+make it round
+thermostat
+lost permutation
+yes-yes?
+decent division
+tick, tock
+almost all multiples
+xor = average
+sseeeeiinngg ddoouubbllee
+kevin and permutation
+technical support
+minecraft series
+n machines
+the beach
+wish i knew how to sort
+factorial divisibility
+make nonzero sum (hard version)
+make nonzero sum (easy version)
+binarystringforces
+doping
+majority
+bracket cost
+count gcd
+complementary xor
+maximum substring
+indirect sort
+distance to the path
+cactus wall
+counting arrays
+number game
+death's blessing
+cowardly rooks
+circular xor reversal
+yet another array counting problem
+constructor
+zero-sum prefixes
+diverse substrings
+the ultimate square
+list generation
+yet another problem
+swap game
+ban ban
+two groups
+olympiad training
+kazaee
+joking (hard version)
+joking (easy version)
+paths on the tree
+permutation operations
+rebellion
+maxmina
+mex vs med
+divisible numbers (hard version)
+divisible numbers (easy version)
+divisibility by 2^n
+traffic light
+even-odd increments
+number replacement
+antifibonacci cut
+intersection and union
+ftl
+problem with random tests
+save the magazines
+permutation value
+password
+orray
+smaller
+scuza
+coprime
+stripes
+increasing
+sum
+kirill and company
+multi-colored segments
+sending a sequence over the network
+masha and a beautiful tree
+minimize the thickness
+funny permutation
+compare t-shirt sizes
+arranging crystal balls
+mex tree manipulation
+dangerous laser power
+conditional mix
+hanging hearts
+knowledge cards
+bricks and bags
+jumbo extra cheese 2
+factorise n+m
+keyboard design
+cleaning robot
+reset k edges
+card game
+array recovery
+immobile knight
+palindrome addicts
+anti-increasing addicts
+connectivity addicts
+balance addicts
+permutation addicts
+even number addicts
+prefix sum addicts
+glory addicts
+ela takes dancing class
+ela and prime gcd
+ela goes hiking
+ela and the wiring wizard
+ela and crickets
+ela's fitness and the luxury number
+ela sorting books
+swap and take
+equal binary subsequences
+good subarrays (hard version)
+good subarrays (easy version)
+playing with gcd
+make a equal to b
+pebbles and beads
+house planning
+meta-set
+phase shift
+tea with tangerines
+working week
+zeros and ones
+rectangular congruence
+slime escape
+removing smallest multiples
+bright, nice, brilliant
+select three sticks
+conveyor
+zero-one (hard version)
+zero-one (easy version)
+parity shuffle sorting
+rule of league
+consecutive sum
+location
+balance (hard version)
+balance (easy version)
+sheikh (hard version)
+sheikh (easy version)
+ugu
+bestie
+function sum
+graph cost
+valiant's new map
+even subarrays
+kill demodogs
+joey takes money
+almost sorted
+maximums and minimums
+prefixes and suffixes
+minimum notation
+meeting on the line
+planets
+cut substrings
+kirei and the linear function
+guess the cycle size
+friends and the restaurant
+jumping on tiles
+decode string
+two elevators
+illumination
+fishermen
+red-black pepper
+letter picking
+digital logarithm
+best permutation
+colored balls: revisited
+mainak and the bleeding polygon
+a certain magical party
+late for work (submissions are not allowed)
+almost perfect
+edge split
+jatayu's balanced bracket sequence
+mainak and interesting sequence
+mainak and array
+moving both hands
+lemper cooking competition
+kingdom of criticism
+journey
+imitating the key tree
+hot black hot white
+garage
+field photography
+electrical efficiency
+deducing sortability
+circular mirror
+basketball together
+accumulation of dominoes
+even-odd xor
+l-shapes
+counting rectangles
+line
+word game
+colourblindness
+spell check
+matching reduction
+prefix function queries
+maximum and
+min-max array transformation
+deadly laser
+image
+misha and paintings
+xor-subsequence (hard version)
+xor-subsequence (easy version)
+corners
+interesting sum
+burenka plays with fractions
+fighting tournament
+mathematical circus
+chip game
+burenka, an array and queries
+impressionism
+permutation for burenka
+tonya and burenka-179
+fibonacci strings
+burenka and traditions (hard version)
+burenka and traditions (easy version)
+madoka and the first session
+madoka and the best university
+madoka and the corruption scheme
+madoka and formal statement
+madoka and underground competitions
+madoka and strange thoughts
+bags with balls
+swap and maximum block
+chip move
+robot in a hallway
+permutation chain
+2-3 moves
+crop squares
+long way home
+2+ doors
+monoblock
+beautiful array
+crossmarket
+path prefixes
+build a tree and that is it
+add modulo 10
+color with occurrences
+minimum varied number
+remove prefix
+everyone loves to sleep
+lost array
+cross swapping
+tournament countdown
+build permutation
+optimal reduction
+traveling salesman problem
+triameter
+lcm sum (hard version)
+lcm sum (easy version)
+empty graph
+sort zero
+woeful permutation
+wonderful permutation
+party
+perfect permutation
+two arrays
+recover the tree
+xor triangle
+rain
+color the picture
+multiset of strings
+xor tree
+rorororobot
+recover an rbs
+also try minecraft
+three doors
+difference of gcds
+difference operations
+bugaboo
+replace
+partial virtual trees
+dfs trees
+difference array
+doremy's iq
+qpwoeirut and vertices
+chopping carrots (hard version)
+chopping carrots (easy version)
+qpwoeirut and the city
+making towers
+another string minimization problem
+mark and the online exam
+mark and professor koro
+mark and lightbulbs
+mark and his unfinished essay
+mark the dust sweeper
+mark the photographer
+game of ai (hard version)
+game of ai (easy version)
+mio and lucky array
+colouring game
+count seconds
+magical array
+virus
+luke is a foodie
+two 0-1 sequences
+good key, bad key
+yet another problem about pairs satisfying an inequality
+mirror grid
+double strings
+cypher
+icpc balloons
+yes or yes?
+passable paths (hard version)
+passable paths (easy version)
+equate multisets
+split into two sets
+not a cheap string
+train and queries
+polycarp writes a string from memory
+round down the price
+points
+text editor
+permutation restoration
+schedule management
+permutation
+grass field
+puzzle
+serega the pirate
+river locks
+helping the nature
+palindromic numbers
+optimal path
+three days grace
+almost triple deletions
+the third problem
+almost ternary matrix
+the third three number problem
+long binary string
+equal reversal
+permutationforces ii
+fixed point guessing
+3sum closure
+rising sand
+xor mixup
+too many constraints
+coloring
+guess the string
+awoo's favorite problem
+promo
+parkway walk
+maximum product?
+fishingprince plays with array again
+tree recovery
+placing jinas
+permutation graph
+fishingprince plays with array
+nit destroys the universe
+nit orz!
+ambiguous dominoes
+tree queries (hard version)
+tree queries (easy version)
+zero path
+circle game
+subrectangle guess
+paranoid string
+creep
+i might be wrong
+outermost maximums
+decinc dividing
+keshi in search of amshz
+fake plastic trees
+directional increase
+gambling
+2^sort
+3sum
+binary deque
+the clock
+where's the bishop?
+all distinct
+marathon
+k-set tree
+number of groups
+max geq sum
+sum of substrings
+shoe shuffling
+beat the odds
+count the trains
+shifting string
+price maximization
+black and white stripe
+restoring the duration of tasks
+array decrements
+print a pedestal (codeforces logo?)
+andfinity
+lena and matrix
+infected tree
+mystic permutation
+lex string
+manipulating history
+patchouli's magical talisman
+cirno's perfect bitmasks classroom
+koishi's unconscious permutation
+become big for me
+cute number
+sanae and giant robot
+railway system
+the enchanted forest
+odd subarrays
+everything everywhere all but one
+the ultimate lis problem
+permutation weight (hard version)
+permutation weight (easy version)
+bring balance
+linguistics
+circular local minimax
+hard cut
+euclid guess
+diverse segments
+mex vs diff
+traps
+column swapping
+z mod x = c
+digit minimization
+mcmf?
+unordered swaps
+circular spanning tree
+lis or reverse lis?
+and sorting
+palindromic indices
+unique occurrences
+labyrinth adventures
+required length
+double sort
+card trick
+game with cards
+lenient vertex cover
+moving chips
+dog walking
+binary string
+robots
+minimums and maximums
+formalism for formalism
+typical party in dorm
+toss a coin to your graph...
+rooks defenders
+stone age problem
+avtobus
+tokitsukaze and good 01-string (hard version)
+tokitsukaze and good 01-string (easy version)
+tokitsukaze and all zero sequence
+tokitsukaze and gems
+tokitsukaze and beautiful subsegments
+tokitsukaze and permutations
+tokitsukaze and two colorful tapes
+tokitsukaze and meeting
+tokitsukaze and strange inequality
+maximum crossings (hard version)
+maximum crossings (easy version)
+white-black balanced subtrees
+longest strike
+eating queries
+x-sum
+most similar words
+equal candies
+lucky?
+sorting pancakes
+vlad and unfinished business
+replace with the previous, minimize
+vertical paths
+detective task
+make it increasing
+food for animals
+remove directed edges
+desktop rearrangement
+breaking the wall
+a-b-c sort
+infinite replacement
+dictionary
+number transformation
+anti-theft road planning
+power or xor?
+lost arithmetic progression
+palindrome basis
+a perfectly balanced string?
+subtle substring subtraction
+permutationforces
+zigu zagu
+cross xor
+checker for array shuffling
+array shuffling
+notepad.exe
+cyclic rotation
+unequal array
+i love aaab
+log chopping
+permutation counting
+preorder
+insert a progression
+dolce vita
+consecutive points segment
+string building
+jee, you see?
+hemose on the tree
+very suspicious
+where is the pizza?
+dorms war
+prof. slim
+maximal and
+fall down
+eating candies
+2-letter strings
+colorful stamp
+odd/even increments
+triple
+division?
+social distance
+direction change
+yin yang
+centroid probabilities
+edge elimination
+half queen cover
+optimal partition
+make it increasing
+labyrinth
+kingdom partition
+job lookup
+interactive treasure hunt
+fancy stack
+even split
+deletive editing
+connect the points
+budget distribution
+admissible map
+minimizor
+gcd guess
+tree infection
+array cloning technique
+gcd vs lcm
+cross-language program
+six characters
+in every generation...
+are you safe?
+is it rated - 3
+mike's sequence
+who tested?
+circular maze
+drone photo
+bottle arrangements
+il derby della madonnina
+pandemic restrictions
+training camp
+ice cream shop
+boundary
+gastronomic event
+antennas
+round table
+evolution of weasels
+european trip
+toys
+organizing swerc
+teleporters
+narrow components
+progressions covering
+water the trees
+getting zero
+array balancing
+promising string (hard version)
+promising string (easy version)
+matrix and shifts
+maximum product strikes back
+get an even string
+vlad and candies
+vasya and coins
+tree and permutation game
+and-mex walk
+reverse sort sum
+line empire
+bit flipping
+red versus blue
+juju and binary string
+gojou and matrix game
+388535 (hard version)
+388535 (easy version)
+shinju and the lost permutation
+marin and anti-coprime permutation
+marin and photoshoot
+words on tree
+star mst
+for gamers. by gamers.
+bracket sequence deletion
+xy sequence
+integer moves
+neighbour ordering
+equal lcm subsets
+cycle palindrome
+parametric mst
+equal tree sums
+k-good
+make equal with mod
+subtract operation
+good pairs
+three minimums
+snowy mountain
+minimal string xoration
+arithmetic operations
+potion brewing class
+alice and the cake
+prefix removals
+maximum cake tastiness
+tower defense
+sum of matchings
+nearest excluded points
+fault-tolerant network
+prove him wrong
+playoff
+counting shortcuts
+vitaly and advanced useless algorithms
+rescheduling the exam
+twist the permutation
+weight of the system of nested segments
+div + mod
+deletions of two adjacent letters
+game of ball passing
+game
+two avenues
+air reform
+serious business
+tyler and strings
+integral array
+weird sum
+madoka and laziness
+madoka and the sixth-graders
+madoka and the best school in russia
+madoka and childish pranks
+madoka and the elegant gift
+madoka and math dad
+playing around the table
+power board
+weight the tree
+factorials and powers of two
+quality vs quantity
+square counting
+basis
+expand the path
+cross coloring
+increase subarray sums
+anti-fibonacci permutation
+doors and keys
+power walking
+hard way
+covering circle
+special positions
+two arrays
+anonymity is important
+repetitions decoding
+great sequence
+treasure hunt
+treasure hunt
+treasure hunt
+treasure hunt
+treasure hunt
+treasure hunt
+treasure hunt
+treasure hunt
+treasure hunt
+treasure hunt
+treasure hunt
+two posters
+colorful operations
+big brush
+inversion graph
+odd swap sort
+reverse
+minimize inversions number
+birthday
+towers
+best pair
+yet another minimization problem
+andrew and stones
+mex and array
+sorting parts
+closest pair
+cars
+infinite set
+differential sorting
+avoid local maximums
+min or sum
+fibonacci additions
+fair share
+finding zero
+okea
+fortune telling
+reverse and concatenate
+perfect matching
+spanning tree queries
+make them equal
+kill the monster
+minority
+div. 7
+distance tree (hard version)
+distance tree (easy version)
+new year concert
+strange test
+roof construction
+abc
+fun with even subarrays
+min max swap
+making it bipartite
+expected components
+flipping range
+paint the middle
+range and partition
+and matching
+gcd arrays
+download more ram
+spaceship crisis management
+groceries in meteor town
+game on sum (hard version)
+game on sum (easy version)
+grid xor
+peculiar movie preferences
+meximum array
+not splitting
+not escaping
+not adding
+not assigning
+not sitting
+not shading
+a random code problem
+black and white tree
+martial arts tournament
+monsters and spells
+minor reduction
+equidistant letters
+cats on the upgrade (hard version)
+cats on the upgrade (easy version)
+binary spiders
+road optimization
+elementary particles
+ancient civilization
+minor tree
+interacdive problem
+masha-forgetful
+palindromes coloring
+division by two and permutation
+make ap
+plus one on the subset
+middle duplication
+robot cleaner revisit
+balanced stone heaps
+game on ranges
+robot cleaner
+quadratic set
+math test
+shuffle
+set or decrease
+berland music
+construct a rectangle
+two sequences
+trains and airplanes
+weighted increasing subsequences
+strange instructions
+new school
+the winter hike
+hidden permutations
+integers shop
+stable arrangement of rooks
+subsequences galore
+bipartite array
+replace the numbers
+exact change
+ba-string
+triangles on a rectangle
+equal or not equal
+permutation and queries
+unusual minesweeper
+let's play the hat?
+mex and increments
+new year's problem
+wrong addition
+squares and cubes
+square string?
+trader problem
+reverse
+singers' tour
+array and operations
+paint the array
+missing bigram
+polycarp and sums of subsequences
+christmas chocolates
+too many impostors (hard version)
+too many impostors (easy version)
+paprika and permutation
+gcd problem
+forbidden subsequence
+keep xor low
+just add an edge
+tricolor triangles
+lexicographically small enough
+keep the average high
+representative edges
+mirror in the string
+integer diversity
+reindeer games
+maximum adjacent pairs
+legondary grandmaster
+purple crayon
+x(or)-mas tree
+menorah
+and it's non-zero
+closing the gap
+divan and a cottage
+divan and kostomuksha (hard version)
+divan and kostomuksha (easy version)
+divan and bitwise operations
+divan and a new project
+divan and a store
+tree coloring
+crazy robot
+mex sequences
+poisoned dagger
+absent remainder
+long comparison
+max sum array
+armor and weapons
+messages
+x-magic pair
+chat ban
+special permutation
+distance
+robot and candies
+atm and students
+escape the maze (hard version)
+escape the maze (easy version)
+weights assignment for tree edges
+polycarp recovers the permutation
+team composition: programmers and mathematicians
+make even
+mashtali vs atcoder
+squid game
+amshz wins a bet
+mashtali: a space oddysey
+amshz and g.o.a.t.
+not quite lee
+keshi is throwing a party
+kalindrome array
+anti light's cell guessing
+pushing robots
+a stroll around the matrix
+interesting sections
+william the oblivious
+social network
+complex market analysis
+william the vigilant
+divide and multiply
+alphabetic tree
+mex counting
+the cells on the paper
+dominoes
+game master
+build the permutation
+find array
+banquet preparations 2
+banquet preparations 1
+robot on the board 2
+robot on the board 1
+blue-red permutation
+minimum extraction
+odd grasshopper
+linear keyboard
+tree queries
+arena
+red-blue matrix
+banknotes
+update files
+ab balance
+palindorme
+array equalizer
+treelabeling
+dominant character
+reverse sort
+a.m. deviation
+xor specia-lis-t
+era
+october 18, 2017
+a perfect problem
+artistic partition
+extreme extension
+moderate modular mode
+di-visible confusion
+divine array
+two subsequences
+two sorts
+phys ed online
+difficult mountain
+optimal insertion
+frog traveler
+array elimination
+robot factory
+party organization
+array game
+bob's beautiful array
+desert
+hidden fortress
+shortest path
+mars
+two arrays
+bubble popping
+bubble strike
+restaurant game
+weights
+the sum of good numbers
+rbs
+staircases
+training session
+delete two elements
+groups
+computer game
+ideal farm
+rubik's cube coloring (hard version)
+rubik's cube coloring (easy version)
+the number of imposters
+make them equal
+special numbers
+consecutive sum riddle
+changing brackets
+red-black number
+gardener and tree
+half of same
+all are same
+save more mice
+make it divisible by 25
+elections
+alice and recoloring 2
+alice and recoloring 1
+bored bakry
+hemose in icpc ?
+bakry and partitioning
+hemose shopping
+gamer hemose
+jumping through the array
+omkar and mosaic
+poachers
+non-equal neighbours
+frequency queries
+yet another sorting problem
+minimize distance
+array eversion
+life of a flower
+eligible segments
+strange lcs
+game with stones
+guess the permutation
+two arrays
+coloring rectangles
+mathematical addition
+omkar and tours
+omkar and time travel
+defender of childhood dreams
+moment of bloom
+omkar and the meaning of life
+omkar and determination
+omkar and heavenly tree
+windblume ode
+kuzya and homework
+korney korneevich and xor (hard version)
+korney korneevich and xor (easy version)
+pchelyonok and segments
+vupsen, pupsen and 0
+grandma capa knits a scarf
+luntik and subsequences
+luntik and concerts
+diameter of graph
+cqxym count permutations
+problems for codeforces
+railway construction
+subsequence
+train maintenance
+mathematics curriculum
+portal
+minimal coverage
+array stabilization (and version)
+array optimization by deque
+permutation minimization by deque
+productive meeting
+ticks
+shifting sort
+casimir's string solitaire
+the mind
+labyrinth
+kingdom of islands
+just kingdom
+interactive rays
+higher order functions
+game of chance
+framing pictures
+easy scheduling
+dragon curve
+cactus lady and her cing
+building forest trails
+anti-tetris
+communication routing challenge
+managing telephone poles
+longest array deconstruction
+knitting batik
+jeopardy of dropped balls
+illusions of the desert
+holiday wall ornaments
+gcd festival
+finding expected value
+eye-pleasing city park tour
+divisible by twenty-five
+cyclic sum
+building an amusement park
+another sorting problem
+occurrences
+coloring
+the strongest build
+slay the dragon
+combinatorics homework
+regular bracket sequences
+swaps
+countdown
+stations
+polygon
+bridge club
+paint
+xor of 3
+book
+two railroads
+physical examination
+laser beams
+a battle against a dragon
+kotlinforces
+fix the string
+sweepstake
+rhyme
+epic novel
+sequence of comparisons
+palindromic hamiltonian path
+playoff restoration
+inconvenient pairs
+jury meeting
+chess tournament
+balanced substring
+one-four overload
+non-decreasing dilemma
+expression evaluation error
+carrying conundrum
+mexor mixup
+domino disaster
+xor-quiz
+four vertices
+points movement
+buds re-hanging
+seating arrangements (hard version)
+seating arrangements (easy version)
+max-mex cut
+min-mex cut
+median maximization
+tubular bells
+rescue niwen!
+two hundred twenty one (hard version)
+two hundred twenty one (easy version)
+rings
+scenes from a memory
+the miracle and the sleeper
+up the strip (simplified version)
+deep down below
+simply strange sort
+nearest beautiful number (hard version)
+nearest beautiful number (easy version)
+polycarp and string transformation
+make a power of two
+infinity table
+who's opposite?
+dislike of threes
+mocha and stars
+mocha and diana (hard version)
+mocha and diana (easy version)
+mocha and hiking
+mocha and red and blue
+mocha and math
+strange sort
+down below
+top-notch insertions
+bottom-tier reversals
+up the strip
+charmed by the game
+assiut chess
+ezzat and grid
+moamen and xor
+moamen and k-subarrays
+ezzat and two subsequences
+diy tree
+gates to another world
+sports betting
+equilibrium
+take a guess
+compressed bracket sequence
+take your places!
+a variety of operations
+good graph
+boring segments
+say no to palindromes
+coin rows
+two tables
+pizzaforces
+you
+diane
+mikasa
+cobb
+cherry
+stairs
+xor and distance
+common divisor graph
+pairwise modulo
+permutation shift
+backspace
+penalty
+reverse string
+digits sum
+organizing a music festival
+guess the perimeter
+a serious referee
+telepanting
+colors and intervals
+array differentiation
+maximize the intersections
+running for gold
+subsequence permutation
+equidistant vertices
+fixed points
+domino (hard version)
+domino (easy version)
+interesting story
+wonderful coloring - 2
+wonderful coloring - 1
+polycarp and coins
+jumping around
+stringforces
+excellent arrays
+manhattan subarrays
+maximum cost deletion
+find the array
+gregor and the pawn game
+gregor and cryptography
+gregor and the two painters
+gregor and the odd cows (hard)
+gregor and the odd cows (easy)
+the three little pigs
+integers have friends
+web of lies
+how many paths?
+array stabilization (gcd version)
+air conditioners
+co-growing sequence
+pair programming
+alphabetical strings
+shortest path with obstacle
+aquamoon and stolen string
+aquamoon and two arrays
+aquamoon and potatoes
+aquamoon and time stop (hard version)
+aquamoon and time stop (easy version)
+aquamoon and wrong coordinate
+aquamoon and permutations
+aquamoon and chess
+aquamoon and strange sort
+the final pursuit
+rpd and rap sheet (hard version)
+rpd and rap sheet (easy version)
+need for pink slips
+customising the track
+exciting bets
+abnormal permutation pairs (hard version)
+abnormal permutation pairs (easy version)
+priority queue
+strange function
+plus and multiply
+odd set
+pleasant pairs
+pretty permutations
+tasty dishes
+inverse inversions
+converging array (hard version)
+converging array (easy version)
+tree array
+great graphs
+strange array
+game with cards
+pricefixed
+stable groups
+love song
+contest start
+gift set
+interesting function
+funny substrings
+another problem about dividing numbers
+number of pairs
+friends and candies
+stone game
+figure fixing
+erase and extend (hard version)
+erase and extend (easy version)
+deleting divisors
+challenging cliffs
+bad boy
+arithmetic array
+omkar and akmar
+omkar and forest
+omkar and medians
+diluc and kaeya
+prinzessin der verurteilung
+omkar and bad story
+string distance
+gold transfer
+playoff tournament
+unstable string
+array reodering
+fair playoff
+lost nodes
+a new beginning
+falling sand (hard version)
+falling sand (easy version)
+lost array
+lost tree
+little alawn's puzzle
+histogram ugliness
+colour the flag
+pawns
+excursions
+submatrices
+biome map
+binary string partition
+chess team forming
+string searching
+sweets
+nearest point function
+travel to bertown
+prefixes and suffixes
+good array
+teams forming
+uniform string
+frog jumping
+a+b (trial problem)
+turing's award
+what a reversal
+bingo
+minimax
+secret santa
+pursuit
+putting plates
+binary decimal
+sifid and strange subsequences
+eshag loves big arrays
+amshz farm
+mashtali and hagh trees
+it's a bird! no, it's a plane! no, it's aaparsa!
+trees of tranquillity
+kavi on pairing duty
+parsa's humongous tree
+partition game
+mex tree
+sequence pair weight
+palindrome game (hard version)
+palindrome game (easy version)
+and then there were k
+median queries
+oolimry and suffix array
+kill anton
+potions (hard version)
+potions (easy version)
+i hate 1111
+mean inequality
+goblins and gnomes
+assimilation iv
+armchairs
+robot collisions
+permutation sort
+potion-making
+hopping around the array
+try booking
+favorite game
+crypto lights
+love-hate
+compression and expansion
+lord of the values
+game of life
+nastia and a beautiful matrix
+nastia plays with a tree
+nastia and a hidden permutation
+nastia and a good array
+nastia and nearly good numbers
+to go or not to go?
+guess the k-th zero (hard version)
+guess the k-th zero (easy version)
+arranging the sheep
+same differences
+not adjacent matrix
+ordinary numbers
+do not be distracted!
+chests and keys
+off by one
+maximum sum of products
+berland regional
+the cake is a lie
+red and blue beans
+fly around the world
+starry night camping
+reunion
+group photo
+explorer space
+fillomino 2
+morning jogging
+sum of 2050
+baby ehab plays with permutations
+cut
+baby ehab partitions again
+agaga xooorrr
+tit for tat
+phoenix and diamonds
+phoenix and bits
+phoenix and odometers
+phoenix and earthquake
+phoenix and computers
+phoenix and socks
+phoenix and towers
+phoenix and puzzle
+phoenix and gold
+baby ehab's hyper apartment
+cut and stick
+product 1 modulo n
+and 0, sum big
+perfectly imperfect array
+swapping problem
+cost equilibrium
+gcd and mst
+add one
+and sequences
+array and peaks
+short task
+education
+permutation by sum
+corrupted array
+a-b palindrome
+almost rectangle
+spy detected!
+chips on a board
+chainword
+colorings and dominoes
+min cost string
+yet another card deck
+gcd length
+review site
+king's task
+japanese game
+is it rated?
+hard optimization
+fiber shape
+digits
+cactus not enough
+button lock
+the sports festival
+average height
+optimal encoding
+tree calendar
+swap pass
+complete the mst
+almost sorted
+binary literature
+maximize the remaining string
+triangular paths
+restoring the permutation
+epic transformation
+double-ended strings
+partial replacement
+strange table
+mysterious language again, seriously?
+l break into program
+encoded message
+math
+cakewalk
+xenolith? hippodrome?
+fibonacci words
+dmca
+is it rated - 2
+flip the bits
+déjà vu
+balance the cards
+2-coloring
+flip the cards
+travelling salesman problem
+3-coloring
+balance the bits
+napoleon cake
+alexey and train
+cupboards jumps
+subset trick
+tiles for bathroom
+matrix sorting
+two chandeliers
+going home
+graph coloring
+diameter cuts
+chaotic merge
+the number of pairs
+minimum grid path
+binary removals
+domino on windowsill
+christmas game
+two houses
+bananas in a microwave
+planar reflections
+box fitting
+gcd sum
+square-free division (hard version)
+square-free division (easy version)
+genius
+k-lcm (hard version)
+k-lcm (easy version)
+m-arrays
+meximization
+max and mex
+split it!
+squares
+qingshan and daniel
+bfs trees
+garden of the sun
+let's go hiking
+diamond miner
+delete the edges
+a-z graph
+dogeforces
+1d sokoban
+berland crossword
+abc string
+enchanted matrix
+enormous xor
+gcd of an array
+k-beautiful strings
+planet lapituletti
+anti-knapsack
+almost fault-tolerant database
+genius's gambit
+maximum width
+card deck
+three swimmers
+ruler of the zoo
+yuezheng ling and dynamic tree
+switch and flip
+magnets
+fib-tree
+zookeeper and the infinite zoo
+pekora and trampoline
+minimal cost
+k-th largest value
+old floppy drive
+equalize the array
+accidental victory
+permutation transformation
+sum of cubes
+balanced remainders
+dense array
+flower shop
+demonic invasion
+build from suffixes
+painting numbers
+dogecoin
+palindromic doubles
+problemsolving marathon
+two policemen
+rbs deletion
+from zero to y
+string counting
+ones
+cheap dinner
+pythagorean triples
+minimum ties
+cat cycle
+arena
+pairs of paths
+paired payment
+max median
+guessing the greatest (hard version)
+guessing the greatest (easy version)
+eastern exhibition
+shifting stacks
+copy or prefix sum
+move and swap
+multiples and power differences
+floor and mod
+replace and keep sorted
+add and divide
+exam
+vabank
+useful edges
+skyline photo
+playlist
+basic diplomacy
+restore modulo
+prison break
+ab tree
+sorting books
+ab graph
+fence painting
+new colony
+space navigation
+the great hero
+yet another string game
+school clubs
+odd mineral resource
+continuous city
+painting the array ii
+painting the array i
+searching local minimum
+nezzar and symmetric array
+nezzar and lucky number
+nezzar and colorful balls
+nezzar and chocolate bars
+nezzar and tournaments
+nezzar and hidden permutations
+nezzar and nice beatmap
+nezzar and binary string
+nezzar and board
+minimum difference
+lanterns
+pattern matching
+journey
+longest simple cycle
+inflation
+k-divisible sum
+strange beauty
+unusual matrix
+advertising agency
+cleaning the phone
+ball in berland
+new year's number
+odd divisor
+1 2 3 4 ...
+what is it?
+cleaning
+array destruction
+different divisors
+puzzle from the future
+tiles
+strange set
+minimum path
+program
+no more inversions
+string lcm
+replacing elements
+moving to the capital
+new year's puzzle
+correct placement
+even-odd game
+long jumps
+fair division
+cards for friends
+strange list
+strange partition
+strange covering
+strange permutation
+strange housing
+strange shuffle
+strange definition
+strange birthday party
+power sockets
+a bit similar
+ceil divisions
+building a fence
+red and blue
+regular bracket sequence
+waste sorting
+similar sets
+prime divisors selection
+the robot
+road reform
+plane tiling
+k and medians
+hobbits
+full turn
+four segments
+firecrackers
+berpizza
+bakery
+lais
+distinctive roots in a tree
+sum of paths
+three bags
+hills and valleys
+wizard of orz
+the riddle of the sphinx
+finding satisfactory solutions
+song of the sirens
+euclid's nightmare
+apollo versus pan
+13th labour of heracles
+canine poetry
+last minute enhancements
+bovine dilemma
+my beautiful madness
+max correct set
+plan of lectures
+pairs
+busy robot
+find the array
+dungeon
+the treasure of the segments
+close tuples (hard version)
+close tuples (easy version)
+add to neighbour and remove
+unique number
+last year's substring
+favorite sequence
+mathematical expression
+water level
+divide and summarize
+random events
+find the spruce
+string generation
+move and turn
+red-blue shuffle
+range diameter sum
+nim shortcuts
+flip and reverse
+latin square
+glass half spilled
+row gcd
+xor-ranges
+forbidden value
+string and operations
+four points
+sequence and swaps
+ping-pong
+jumps
+strange functions
+array partition
+number of simple paths
+number into sequence
+sequence transformation
+unique bid auction
+special permutation
+even harder
+dog snacks
+checkpoints
+triangles
+suffix operations
+cancel the trains
+game on tree
+divide powers
+two editorials
+radio towers
+two brackets
+toy blocks
+robot program
+nullify the matrix
+bitwise queries (hard version)
+bitwise queries (easy version)
+circle game
+string equality
+non-substring subsequence
+subtract or divide
+multithreading (hard version)
+multithreading (easy version)
+communism
+the struggling contestant
+capitalism
+rating compression
+errich-tac-toe (hard version)
+errich-tac-toe (easy version)
+balls of steel
+avoid trygub
+numbers box
+add candies
+line distance
+long recovery
+frequency problem (hard version)
+frequency problem (easy version)
+xor tree
+catching cheaters
+knapsack
+elimination
+array rearrangment
+finding the vertex
+rectangular polyline
+team-building
+divide and sum
+division
+long permutation
+the delivery dilemma
+saving the city
+kids seating
+differentiating games
+black, white and grey tree
+sum
+graph transpositions
+identify the operations
+extreme subtraction
+sum of medians
+buy the string
+cheat and win
+inoi final contests
+greedy shopping
+graph subset problem
+binary table (hard version)
+binary table (easy version)
+olha and igor
+yurii can do everything
+powerful ksenia
+engineer artem
+valerii against everyone
+specific tastes of andre
+death dbms
+emotional fishermen
+make it increasing
+minimal height tree
+chef monocarp
+reverse binary strings
+marketing scheme
+sum over subsets
+complicated computations
+bandit in a city
+binary search
+prime square
+reorder
+a convex game
+reducing delivery cost
+zero remainder sum
+two round dances
+districts connection
+dominant piranha
+yet another bookshelf
+boring apartments
+zero-xor array
+cyclic shifts
+rogue-like game
+number deletion game
+neural network problem
+chess match
+used markers
+black friday
+polycarp and the language of gods
+selling hamburgers
+yet another dag problem
+realistic gameplay
+string reversal
+string deletion
+numbers on whiteboard
+barrels
+number of apartments
+rotary laser lock
+lucky numbers (hard version)
+lucky numbers (easy version)
+fruit sequences
+carrots for rabbits
+bouncing boomerangs
+abbb
+belted rooms
+box is pull
+prison break
+one billion shades of grey
+boring card game
+xum
+unshuffling a deck
+the hard work of paparazzi
+chess cheater
+avoiding zero
+number of subsequences
+rock, paper, scissors
+non-zero segments
+increase and copy
+symmetric matrix
+floor number
+impressive harvesting of the orchard
+huge boxes of animal toys
+flamingoes of mystery
+excitation of atoms
+danger of mad snakes
+captain of knights
+blue and red of our faculty!
+arena of greed
+ancient language
+years
+bubblesquare tokens
+milutin's plums
+light switches
+lonely numbers
+bubble cup hypothesis
+lookup tables
+virus
+growing flowers
+coins
+5g antenna towers
+does anyone else hate the wind?
+dušan's railway
+valuable paper
+wakanda forever
+boring queries
+minlexes
+returning home
+bargain
+nice matrix
+fence
+swedish heroes
+hexagons
+palindromifier
+putting bricks in the wall
+xorwice
+battle lemmings
+rescue nibel!
+pokémon army (hard version)
+pokémon army (easy version)
+rock and lever
+cubes sorting
+rain of fire
+decryption
+sage's birthday (hard version)
+sage's birthday (easy version)
+killjoy
+stairs
+digit game
+three occurrences
+equal product
+expected damage
+trash problem
+mortal kombat tower
+negative prefixes
+buying torches
+two arrays
+copy-paste
+showing off
+split
+graph and queries
+xor inverse
+make them equal
+k-amazing numbers
+cakes for clones
+new game plus!
+xor-gun
+bouncing ball
+repainting street
+prison break
+roads and ramen
+solo mid oracle
+shurikens
+perform easily
+a new technique
+finding sasuke
+no game no life
+the thorny path
+poman numbers
+grime zoo
+peaceful rooks
+fair numbers
+in-game chat
+subsequences of length two
+two platforms
+decrease the sum of digits
+yet another array restoration
+minimum product
+yet another two integers problem
+bitwise magic
+rainbow triples
+clusterization counting
+two different
+avoid rainbow cycles
+searchlights
+discrete acceleration
+arrays sum
+circle coloring
+egor in the republic of dagestan
+discrete centrifugal jumps
+chocolate bunny
+big vova
+ahahahahahahahaha
+deleting numbers
+three sequences
+link cut centroids
+maximum product
+subset mex
+array cancellation
+permutation forgery
+bricks
+game of pairs
+fixed point removal
+tree tag
+balanced bitstring
+chess rush
+spring cleaning
+the potion of great power
+star trek
+roads
+fancy fence
+reverse and swap
+divide square
+maximum distributed tree
+mere array
+ternary sequence
+distance and axis
+mercenaries
+x-prime substrings
+clear the multiset
+zigzags
+binary string reconstruction
+rpg protagonist
+string similarity
+yet another segments subset
+weights division (hard version)
+weights division (easy version)
+binary string to subsequences
+boats competition
+gifts fixing
+remove smallest
+running competition
+controversial rounds
+two types of spells
+colored rectangles
+good subarrays
+substring removal game
+bad triangle
+power sequence
+juggling letters
+distance matching
+rainbow rectangles
+monster invaders
+stoned game
+multiples of length
+boboniu and bit operations
+boboniu plays chess
+boboniu likes to color balls
+boboniu and banknote collection
+boboniu and jianghu
+boboniu and string
+boboniu walks on graph
+boboniu chats with du
+twilight and ancient scroll (harder version)
+twilight and ancient scroll (easier version)
+rarity and new dress
+pinkie pie eats patty-cakes
+applejack and storages
+rainbow dash, fluttershy and chess coloring
+kevin and grid
+zs shuffles cards
+omkar and pies
+omkar and landslide
+omkar and duck
+omkar and bed wars
+omkar and waterslide
+omkar and infinity clock
+omkar and password
+pairs of pairs
+505
+cyclic permutations
+fix you
+suborrays
+directing edges
+bicolored segments
+calendar ambiguity
+segment intersections
+good string
+array walk
+lcm problem
+uncle bogdan and projections
+captain flint and treasure
+uncle bogdan and country happiness
+captain flint and a long voyage
+captain flint and crew recruitment
+viruses
+village (maximum)
+village (minimum)
+graph
+joker
+mixture
+colors
+columns swaps
+removing leaves
+directing edges
+a-good string
+make it good
+restore the permutation by merger
+three pairwise maximums
+koa and the beach (hard version)
+koa and the beach (easy version)
+common prefixes
+special edges
+strange operation
+rearrange
+string transformation 2
+gamegame
+string transformation 1
+sequential nim
+common subsequence
+origami
+the majestic brown tree snake
+mastermind
+unmerge
+prefix flip (hard version)
+prefix flip (easy version)
+circular dungeon
+strange addition
+merging towers
+berserk and fireball
+create the teams
+universal solution
+three indices
+chess strikes back (hard version)
+chess strikes back (easy version)
+inverse genealogy
+new passenger trams
+choosing flowers
+dubious cyrpto
+acacius and string
+cubic lattice
+set merging
+tree modification
+integer game
+inversion swapsort
+replace by mex
+element extermination
+neighbor grid
+sign flipping
+cyclic shifts sorting
+reading books (hard version)
+reading books (easy version)
+zero remainder array
+move brackets
+multiply by 2, divide by 6
+required remainder
+pawns
+network coverage
+sum of digits
+maximum sum on even positions
+pluses and minuses
+01 game
+donut shops
+omkar and modes
+omkar and last floor
+omkar and circle
+omkar and baseball
+omkar and last class of math
+omkar and completion
+raging thunder
+asterism (hard version)
+asterism (easy version)
+grid-00100
+a cookie for you
+magical calendar
+magical sticks
+the hidden pair (hard version)
+the hidden pair (easy version)
+binary subsequence rotation
+odd-even subsequence
+number game
+gcd compression
+maximum gcd
+barelee
+deadlee
+tediouslee
+rationallee
+accuratelee
+fashionablee
+breadboard capacity (hard version)
+breadboard capacity (easy version)
+shifting dominoes
+lamps on a circle
+ski accidents
+and, or and square sum
+even picture
+codeforces subsequences
+c+=
+flying sort (hard version)
+flying sort (easy version)
+necklace assembly
+task on the board
+social distance
+even array
+short substrings
+construct the string
+jog around the graph
+two arrays
+two divisors
+palindromic paths
+shuffle
+shovels and swords
+secure password
+swaps again
+maximum subsequence value
+solve the maze
+rotation matching
+trouble sort
+matrix game
+x-or
+ehab's last corollary
+ehab and prefix mexs
+most socially-distanced subsequence
+xxxxx
+rotating substrings
+tree shuffling
+guess the maximums
+game on leaves
+subsequence hate
+odd selection
+johnny and another rating drop
+johnny and his hobbies
+johnny and ancient computer
+johnny and new toy
+james and the chase
+johnny and james
+johnny and megan's necklace
+johnny and grandmaster
+johnny and contribution
+binary median
+a/b matrix
+spy-string
+polygon
+buying shovels
+similar pairs
+honest coach
+minimal square
+rc kaboom show
+modular stability
+yet another yet another task
+mixing water
+new theatre square
+berland poker
+tasty cookie
+are you fired?
+the best vacation
+celex update
+maria breaks the self-isolation
+park lighting
+root of quantum fourier transform
+power of quantum fourier transform
+quantum classification - dataset 7
+quantum classification - dataset 6
+quantum classification - dataset 5
+quantum classification - dataset 4
+quantum classification - dataset 3
+prepare superposition of basis states with the same parity
+prepare superposition of basis states with 0s
+"is the number divisible by 3?" oracle
+"is the bit string balanced?" oracle
+distinguish y, xz, -y and -xz
+distinguish four pauli gates
+distinguish rz from r1
+distinguish h from x
+distinguish i, cnots and swap
+figure out direction of cnot
+quantum classification - 2
+quantum classification - 1
+decrement
+increment
+distinguish z from -z
+distinguish z from s
+distinguish i from z
+distinguish i from x
+guess divisors count
+restorer distance
+game with array
+count triangles
+young explorers
+sequence with digits
+find a gift
+summoning minions
+graph coloring
+multiset
+not so simple polygon embedding
+simple polygon embedding
+ternary string
+alarm clock
+decreasing heights
+k-periodic garland
+constructing the array
+board moves
+two arrays and swaps
+most unstable array
+special permutation
+binary string reconstruction
+special elements
+alice, bob and candies
+k-th not divisible by n
+same parity summands
+sum of round numbers
+skier
+square?
+a+b (trial problem)
+orac and models
+orac and factors
+slime and sequences (hard version)
+slime and sequences (easy version)
+slime and hats
+slime and biscuits
+orac and game of life
+orac and medians
+orac and lcm
+phoenix and memory
+phoenix and berries
+phoenix and science
+phoenix and distribution
+phoenix and beauty
+phoenix and balance
+pac-man 2.0
+game with segments
+two ip cameras
+dune ii: battle for arrakis
+magic tricks
+constructing the dungeon
+spring cleaning
+boot camp
+color revolution
+card constructions
+puzzle pieces
+piet's palette
+train tracks
+résumé review
+quantifier question
+monopole magnets
+hilbert's hotel
+restore the permutation by sorted segments
+weights distributing
+constant palindrome sum
+alternating subsequence
+balanced array
+candies
+make it ascending
+placing rooks
+multiple testcases
+yet another counting problem
+binary period
+road to zero
+nastya and door
+nastya and rice
+nastya and cbs
+nastya and bees
+nastya and time machine
+nastya and unexpected guest
+nastya and scoreboard
+nastya and strange generator
+sorted adjacent differences
+filling diamonds
+jypnation
+nested rubber bands
+perfect triples
+edge weight assignment
+powered addition
+kana and dragon quest game
+ichihime and triangle
+journey
+chiori and doll picking (hard version)
+chiori and doll picking (easy version)
+yui and mahjong set
+kaavi and magic spell
+xenia and colorful gems
+linova and kingdom
+robots on a grid
+three blocks palindrome (hard version)
+three blocks palindrome (easy version)
+anti-sudoku
+two teams composing
+construct the string
+candies and two sisters
+substring search
+strange function
+divisor paths
+minimum euler cycle
+circle of monsters
+middle class
+level statistics
+kate and imperfection
+road to 1600
+eugene and an array
+kind anton
+little artem
+no monotone triples
+independent set
+height all the same
+walk on matrix
+k-complete word
+composite coloring
+exercising walk
+it's showtime
+lingua romana
+elementary!
+jordan smiley
+again?
+...and after happily lived ever they
+limericks
+is it rated?
+dreamoon likes permutations
+dreamoon and ranking collection
+dreamoon loves aa
+dreamoon likes strings
+drazil likes heap
+dreamoon likes sequences
+dreamoon likes coloring
+make k equal
+tree queries
+carousel
+ternary xor
+k-th beautiful string
+divisibility problem
+letters and question marks
+and segments
+count the blocks
+infinite path
+game with chips
+princesses and princes
+sum of odd integers
+spiderweb trees
+wise men (hard version)
+wise men (easy version)
+bombs
+prefix-suffix palindrome (hard version)
+prefix-suffix palindrome (easy version)
+permutation partitions
+maximums
+bad ugly numbers
+ehab's last theorem
+ehab's real number theory problem
+ehab the xorcist
+ehab and path-etic mexs
+copycopycopycopycopy
+ehab and gcd
+maximum white subtree
+sleeping schedule
+pair of topics
+frog jumps
+yet another palindrome problem
+yet another tetris problem
+count subrectangles
+even subset sum problem
+assigning fares
+median mountain range
+reality show
+instant noodles
+present
+unusual competitions
+remove adjacent
+contest for robots
+blocks and sensors
+treeland and viruses
+reachable strings
+world of darkraft: battle for azathoth
+navigation system
+journey planning
+battalion strength
+team building
+nash matrix
+primitive primes
+string modification
+grade allocation
+restoring permutation
+homecoming
+dead pixel
+concatenation with intersection
+happy new year
+skyscrapers (hard version)
+skyscrapers (easy version)
+different rules
+fast food restaurant
+autocompletion
+attack on red kingdom
+array shrinking
+count the arrays
+adding powers
+bogosort
+two regular polygons
+moving points
+construct the binary tree
+three integers
+perform the combo
+weirdsort
+add odd or subtract even
+bad cryptography
+strange function
+tourism
+au pont rouge
+double elimination
+recommendations
+cow and exercise
+cow and vacation
+cow and treats
+cow and fields
+cow and message
+cow and friend
+cow and haybales
+kuroni the private tutor
+kuroni and antihype
+kuroni and the punishment
+kuroni and the score distribution
+kuroni and the celebration
+kuroni and impossible calculation
+kuroni and simple strings
+kuroni and the gifts
+animal observation (hard version)
+animal observation (easy version)
+1-trees and queries
+shortest and longest lis
+air conditioner
+longest palindrome
+two rabbits
+sum of prefix sums
+number of components
+erase subsequences
+fill the bag
+perfect keyboard
+national project
+erasing zeroes
+keep talking and nobody explodes – hard
+deja vu
+who needs suffix structures?
+keep talking and nobody explodes – medium
+keep talking and nobody explodes – easy
+amazing bitset
+dijkstra
+segment tree or fenwick?
+dag
+nash equilibrium
+super jaber
+nanosoft
+time to run
+ayoub's function
+motarack's birthday
+three strings
+assigning to classes
+non-zero
+so mean
+around the world
+water balance
+aerodynamic
+anu has a function
+falling blocks
+paint the string
+m-numbers
+movie fan
+modernization of treeland
+bonus distribution
+dream team
+cartoons
+likes display
+berland beauty
+string coloring (hard version)
+string coloring (easy version)
+fight with monsters
+yet another walking robot
+food buying
+array with odd sum
+good contest
+permutation separation
+same gcds
+obtain the string
+infinite prefixes
+display the number
+three paths on a tree
+obtain a permutation
+mex maximizing
+product of three numbers
+collecting packages
+collecting coins
+joe is on tv!
+conner and the a.r.c. markland-n
+nora's toy boxes
+rin and the unknown flower
+chaotic v.
+xenon's attack on the gangs
+aroma's search
+neko's maze game
+coffee varieties (easy version)
+array sharpening
+even but not even
+making shapes
+cartesian tree
+coffee varieties (hard version)
+prefix enlightenment
+irreducible anagrams
+mind control
+red-blue graph
+messenger simulator
+minimax problem
+two arrays
+yet another meme problem
+deadline
+hyperset
+angry students
+harry the potter
+fedya the potter strikes back
+lcc
+madhouse (hard version)
+madhouse (easy version)
+numbers on tree
+garland
+classical?
+delete a segment
+dr. evil underscores
+fadi and lcm
+just eat it!
+mezo playing zoma
+seollal
+new year and social network
+new year and castle construction
+new year and conference
+new year and permutation
+new year and ascent sequence
+new year and naming
+diy garland
+new year parties
+christmas trees
+friends and gifts
+candies division
+minutes before the new year
+the cake is a lie
+enchanted artifact
+petya and exam
+k for the price of one (hard version)
+k for the price of one (easy version)
+temporarily unavailable
+azamon web services
+suffix three
+intergalactic sliding puzzle
+kirchhoff's current loss
+miss punyverse
+jeremy bearimy
+beingawesomeism
+cut and paste
+new year and handle change
+new year permutations
+santa's bot
+stack of presents
+verse for santa
+new year garland
+cards
+tests for problem d
+segment tree
+berry jam
+a and b
+shuffle hashing
+let's play the words?
+make them odd
+happy birthday, polycarp!
+asterisk substrings
+four stones
+tree elimination
+beautiful rectangle
+two fairs
+as simple as one and two
+storage2
+code review
+two bracket sequences
+nearest opposite parity
+remove one element
+yet another broken keyboard
+snow walking robot
+three friends
+divide the students
+common number
+portals
+shawarma tent
+blocks
+suits
+xor on figures
+number of components
+subset with zero sum
+awesome substrings
+divide points
+strange device
+make good
+interesting subarray
+card game
+modulo equality
+equation
+happy cactus
+invertation in tournament
+k integers
+domino for young
+long beautiful integer
+lexicography
+key storage
+just arrange the icons
+intriguing selection
+help berline
+game relics
+elections
+devops best practices
+balls of buma
+red-blue graph
+permutation concatenation
+almost same distance
+spaceship solitaire
+decreasing debts
+diverse matrix
+dice tower
+competitive programmer
+beautiful mirrors
+beautiful numbers
+beautiful string
+beautiful fibonacci problem
+beautiful league
+beautiful bracket sequence (hard version)
+beautiful bracket sequence (easy version)
+beautiful mirrors with queries
+beautiful sequence
+beautiful regional contest
+economic difficulties
+editor
+secret passwords
+everyone is a winner!
+pin codes
+sweet problem
+xor-set
+colored tree
+tournament
+a game with traps
+infinite fence
+obtain two zeroes
+heating
+divisor set
+make them similar
+the contest
+yet another monster killing problem
+dominated subarray
+magic stick
+two rival students
+equalizing two strings
+yet another division into teams
+binary string minimizing
+platforms jumping
+minimize the permutation
+payment without change
+league of leesins
+fridge lockers
+changing volume
+send tree to charlie
+tree queries
+point ordering
+send boxes to alice (hard version)
+send boxes to alice (easy version)
+feeding chicken
+cheap robot
+antenna coverage
+harmonious graph
+sweets eating
+silly mistake
+single push
+road construction
+addition robot
+tiling terrace
+mission possible
+twin buildings
+performance review
+regular forestation
+songwriter
+find string in a grid
+even path
+cleaning robots
+copying homework
+red-white fence
+voting (hard version)
+voting (easy version)
+salary changing
+minimize the integer
+binary palindromes
+broken keyboard
+wires
+smartgarden
+divide the students
+projectors
+the parade
+show must go on
+happy birthday
+discarding game
+data center
+the coronation
+conference problem
+trip to saint petersburg
+the feast and the bus
+berstagram
+maximum weight subset
+by elevator or stairs?
+too many segments (hard version)
+too many segments (easy version)
+good numbers (hard version)
+good numbers (easy version)
+books exchange (hard version)
+books exchange (easy version)
+yet another dividing into teams
+the world is just a programming task (easy version)
+grow the tree
+integer points
+cursor distance
+daniel and spring cleaning
+hyakugoku and ladders
+shichikuji and power grid
+constanze's machine
+restricted rps
+good ol' numbers coloring
+running in pairs
+chips
+minimizing difference
+paint the tree
+the football season
+rooms and staircases
+pens and pencils
+character swap (hard version)
+character swap (easy version)
+maximum square
+planar perimeter
+number discovery
+sum balance
+0-1 mst
+tile painting
+football
+swiper, no swiping!
+turtle
+catowice city
+queue in the train
+the world is just a programming task (hard version)
+ivan the fool and the probability theory
+adilbek and the watering system
+the maximum subtree
+keyboard purchase
+ab-string
+standard free2play
+kill 'em all
+prime subtraction
+balanced reversals
+balanced distribution
+balanced domino placements
+balanced binary search trees
+balanced playlist
+balanced removals (harder)
+balanced removals (easier)
+balanced tunnel
+balanced rating changes
+alice and the cactus
+alice and the unfair game
+alice and the doll
+labs
+alice and the list of presents
+stones
+yet another substring reverse
+special permutations
+distinct characters queries
+pipes
+social network (hard version)
+social network (easy version)
+equalize prices again
+middle-out
+increasing matrix
+ania and minimizing
+dawid and bags of candies
+one node is gone
+another filling the grid
+complete tripartite
+primes and multiplication
+filling the grid
+distinct digits
+not same
+wrong answer on test 233 (hard version)
+wrong answer on test 233 (easy version)
+arson in berland forest
+optimal subsequences (hard version)
+optimal subsequences (easy version)
+messy
+box
+math problem
+to make 1
+tree factory
+rock is push
+power products
+p-binary
+tv subscriptions (hard version)
+tv subscriptions (easy version)
+forgetting things
+wooden raft
+stack exterminable arrays
+paint the tree
+sequence sorting
+save the nature
+strings equalization
+cme
+graph and numbers
+choose a square
+game with string
+make the fence great again
+perfect team
+knights
+2048 game
+geolocation
+gardener alex
+tourism
+alex and julian
+substring game in the lesson
+multiplication table
+cards
+harvester
+periodic integer number
+the light square
+function composition
+alpha planetary system
+workout plan
+product tuples
+xor spanning tree
+jumping transformers
+guarding warehouses
+bubblereactor
+forced online queries problem
+sum queries?
+coloring edges
+the number of good substrings
+zmei gorynich
+creating a character
+wi-fi
+numerical sequence (hard version)
+numerical sequence (easy version)
+swords
+white sheet
+shooting
+prefixes
+radio stations
+marbles
+ticket game
+swap letters
+the number of products
+yellow cards
+tiles placement
+feeling good
+employment
+petya and construction set
+treasure island
+bad sequence
+badges
+optimal currency exchange
+path queries
+unstable string sort
+two small strings
+equalizing by division (hard version)
+equalizing by division (easy version)
+book reading
+bad prices
+chips moving
+unusual graph
+road repair in treeland
+king's path
+kotlinkotlinkotlinkotlin...
+double permutation inc.
+teams
+ice cream
+traveling around the golden ring of berland
+three problems
+mateusz and escape room
+marek and matching (hard version)
+marek and matching (easy version)
+wojtek and card tricks
+konrad and company evaluation
+kamil and making a stream
+marcin and training camp
+anadi and domino
+moving walkways
+into blocks (hard version)
+into blocks (easy version)
+koala and notebook
+rotate columns (hard version)
+rotate columns (easy version)
+cow and snacks
+paint the digits
+koala and lights
+paint the numbers
+red blue tree
+polygons
+bits and pieces
+let them slide
+restore permutation
+magic grid
+uniqueness
+xorinacci
+indie album
+remainder problem
+xor guessing
+number of permutations
+gas pipeline
+square filling
+there are two types of burgers
+make product equal one
+choose two numbers
+beauty of a permutation
+expected value again
+almost all
+palindromic paths
+shortest cycle
+almost equal
+natasha, sasha and the prefix sums
+kirk and a binary string (hard version)
+kirk and a binary string (easy version)
+anna, svyatoslav and maps
+mislove has lost an array
+bowwow and the timetable
+complete the projects (hard version)
+complete the projects (easy version)
+boxers
+remove the substring (hard version)
+remove the substring (easy version)
+common divisors
+equal rectangles
+circle of students
+you are given some letters...
+you are given some strings...
