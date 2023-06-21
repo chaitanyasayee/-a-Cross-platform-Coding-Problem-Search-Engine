@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    
+    h1 {
+      text-align: center;
+    }
+    
+    .container {
+      max-width: 500px;
+      margin: 0 auto;
+    }
+    
+    .search-form {
+      margin-bottom: 10px;
+    }
+    
+    .button {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      margin-top: 10px;
+      background-color: #4CAF50;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      cursor: pointer;
+      border: none;
+      border-radius: 4px;
+      transition-duration: 0.4s;
+    }
+    
+    .button:hover {
+      background-color: #45a049;
+    }
+    
+    .search-results {
+      margin-top: 20px;
+      padding: 0;
+    }
+    
+    .search-results li {
+      margin-bottom: 10px;
+      padding: 10px;
+      background-color: #f5f5f5;
+      border-radius: 4px;
+      list-style-type: none;
+    }
+    
+    .search-results li a {
+      display: block;
+      text-decoration: none;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Search</h1>
+    <form class="search-form" method="POST" action="/">
+      {{ form.csrf_token }}
+      {{ form.search.label }}
+      {{ form.search }}
+    </form>
+    
+    <a class="button" href="/leetcode?query=" onclick="event.preventDefault(); handleSearch('leetcode')">Search Leetcode</a>
+    <a class="button" href="/codeforces?query=" onclick="event.preventDefault(); handleSearch('codeforces')">Search Codeforces</a>
+    <a class="button" href="/codechef?query=" onclick="event.preventDefault(); handleSearch('codechef')">Search Codechef</a>
+    
+    <ul class="search-results">
+      <!-- Display search results here -->
+      {% for result in search_results %}
+        <li><a href="{{ result.url }}">{{ result.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <script>
+    function handleSearch(platform) {
+      const searchInput = document.querySelector('.search-form input[name="search"]');
+      const query = searchInput.value.trim();
+      const url = `/${platform}?query=${encodeURIComponent(query)}`;
+      window.location.href = url;
+    }
+  </script>
+</body>
+</html>
