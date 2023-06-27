@@ -1,6 +1,3 @@
-Sure! Here's a README file based on the provided code:
-
-```
 # Algozenith Coding Problem Search Engine
 
 The modern world demands individuals to equip themselves with coding skills. Algozenith, as an educational platform, assists learners on this journey by providing them with relevant coding problems to enhance their skills. However, with the plethora of coding platforms available, such as LeetCode, CodeChef, and Codeforces, navigating through the sea of coding problems can be daunting. The task at hand is to simplify this process by developing an efficient search engine.
