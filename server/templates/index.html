@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .search-form {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .search-input {
+            flex: 1;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        
+        .platform-buttons {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .button {
+            padding: 12px;
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            cursor: pointer;
+            border: none;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+            font-size: 16px;
+        }
+        
+        .button:hover {
+            background-color: #45a049;
+        }
+        
+        .search-results {
+            margin: 0;
+            padding: 0;
+        }
+        
+        .search-results li {
+            margin-bottom: 10px;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 4px;
+            list-style-type: none;
+            transition: transform 0.2s;
+        }
+        
+        .search-results li:hover {
+            transform: translateX(5px);
+        }
+        
+        .search-results li a {
+            display: block;
+            text-decoration: none;
+            color: #333;
+            font-size: 16px;
+        }
+        
+        #loading {
+            display: none;
+            text-align: center;
+            margin: 20px 0;
+        }
+        
+        .no-results {
+            text-align: center;
+            color: #666;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Search Programming Problems</h1>
+        
+        <div class="search-form">
+            <input type="text" id="searchInput" class="search-input" placeholder="Enter your search query..." autocomplete="off">
+        </div>
+        
+        <div class="platform-buttons">
+            <button class="button" onclick="handleSearch('leetcode')">Search Leetcode</button>
+            <button class="button" onclick="handleSearch('codeforces')">Search Codeforces</button>
+            <button class="button" onclick="handleSearch('codechef')">Search Codechef</button>
+        </div>
+        
+        <div id="loading">Searching...</div>
+        
+        <ul id="searchResults" class="search-results">
+            <!-- Results will be populated here -->
+        </ul>
+    </div>
+
+    <script>
+        const searchInput = document.getElementById('searchInput');
+        const searchResults = document.getElementById('searchResults');
+        const loadingIndicator = document.getElementById('loading');
+
+        async function handleSearch(platform) {
+            const query = searchInput.value.trim();
+            if (!query) return;
+
+            // Show loading indicator
+            loadingIndicator.style.display = 'block';
+            searchResults.innerHTML = '';
+
+            try {
+                const response = await fetch(`/${platform}?query=${encodeURIComponent(query)}`);
+                const results = await response.json();
+
+                loadingIndicator.style.display = 'none';
+
+                if (results.length === 0) {
+                    searchResults.innerHTML = '<div class="no-results">No results found</div>';
+                    return;
+                }
+
+                const resultsHtml = results.map(result => `
+                    <li>
+                        <a href="${result['Question Link']}" target="_blank">
+                            ${result['Question Link']}
+                        </a>
+                    </li>
+                `).join('');
+
+                searchResults.innerHTML = resultsHtml;
+            } catch (error) {
+                console.error('Error:', error);
+                loadingIndicator.style.display = 'none';
+                searchResults.innerHTML = '<div class="no-results">An error occurred while searching</div>';
+            }
+        }
+
+        // Add event listener for Enter key
+        searchInput.addEventListener('keypress', function(event) {
+            if (event.key === 'Enter') {
+                handleSearch('leetcode'); // Default to leetcode search on Enter
+            }
+        });
+    </script>
+</body>
+</html>
