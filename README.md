@@ -114,23 +114,3 @@ The search engine uses TF-IDF (Term Frequency-Inverse Document Frequency) to ran
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
-
-This README.md provides:
-- Clear project description
-- Installation instructions
-- Technology stack overview
-- File structure
-- API endpoint documentation
-- Running instructions
-- Search algorithm explanation
-- Development notes
-- Contributing guidelines
-
-You can customize this further by:
-1. Adding specific setup requirements
-2. Including screenshots
-3. Adding more detailed API documentation
-4. Including performance metrics
-5. Adding troubleshooting guides
-
-The README is based on the code shown in your files, particularly the Flask application, vite configuration, and package.json dependencies.
