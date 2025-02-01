@@ -9,28 +9,23 @@ The modern world demands individuals to equip themselves with coding skills. Alg
    git clone https://github.com/chaitanyasayee/-a-Cross-platform-Coding-Problem-Search-Engine.git
  
 
-2. Install the required dependencies:
-
-   
-   pip install python
-   pip install flask
   
   
 
-3. Download the necessary data files for each coding platform. The files include:
+2. Download the necessary data files for each coding platform. The files include:
 
-   - `leetcode_vocab.txt`: Vocabulary file for LeetCode problems.
-   - `leetcode_documents.txt`: Document file for LeetCode problems.
-   - `leetcode_inverted_index.txt`: Inverted index file for LeetCode problems.
-   - `LCQindex.txt`: Question links file for LeetCode problems.
-   - `codeforces_vocab.txt`: Vocabulary file for Codeforces problems.
-   - `codeforces_documents.txt`: Document file for Codeforces problems.
-   - `codeforces_inverted_index.txt`: Inverted index file for Codeforces problems.
-   - `CFQindex.txt`: Question links file for Codeforces problems.
-   - `codechef_vocab.txt`: Vocabulary file for CodeChef problems.
-   - `codechef_documents.txt`: Document file for CodeChef problems.
-   - `codechef_inverted_index.txt`: Inverted index file for CodeChef problems.
-   - `CCQindex.txt`: Question links file for CodeChef problems.
+   - `data/leetcode/vocab.txt(old name -leetcode_vocab.txt)`: Vocabulary file for LeetCode problems.
+   - `data/leetcode/document.txt(old name ->leetcode_documents.txt)`: Document file for LeetCode problems.
+   - `data/leetcode/inverted-index.txt(old name ->leetcode_inverted_index.txt)`: Inverted index file for LeetCode problems.
+   - `data/leetcode/question-link.txt(old name ->LCQindex.txt)`: Question links file for LeetCode problems.
+   - `data/codeforces/vocab.txt(old name->codeforces_vocab.txt)`: Vocabulary file for Codeforces problems.
+   - `data/codeforces/document.txt(old name ->codeforces_documents.txt)`: Document file for Codeforces problems.
+   - `data/codeforces/inverted-index.txt(old name ->codeforces_inverted_index.txt)`: Inverted index file for Codeforces problems.
+   - `data/codeforces/question-link.txt(old name ->CFQindex.txt)`: Question links file for Codeforces problems.
+   - `data/codechef/vocab.txt(old name-codechef_vocab.txt)`: Vocabulary file for CodeChef problems.
+   - `data/codechef/document.txt(old name -codechef_documents.txt)`: Document file for CodeChef problems.
+   - `data/codechef/inverted-index.txt(codechef_inverted_index.txt)`: Inverted index file for CodeChef problems.
+   - `data/codechef/question-link(oldname-CCQindex.txt)`: Question links file for CodeChef problems.
 
 4. Start the Flask server:
 
