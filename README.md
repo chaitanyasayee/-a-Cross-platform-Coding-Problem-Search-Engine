@@ -1,5 +1,3 @@
-Based on the code shown, I'll help you create a comprehensive README.md that explains the project. Here's a suitable README:
-
 ```markdown
 # Cross-Platform Coding Problem Search Engine
 
